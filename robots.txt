@@ -1,0 +1,6 @@
+# Every page on cebersaban44-rgb.github.io may be crawled, by search engines
+# and AI tools alike.
+User-agent: *
+Allow: /
+
+Sitemap: https://cebersaban44-rgb.github.io/keymotion/sitemap-index.xml
